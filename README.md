@@ -1,3 +1,12 @@
+# Установка
+npx create-react-app
+npm i react-router-dom
+npm install --save-dev --save-exact prettier
+npm install --global prettier
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
