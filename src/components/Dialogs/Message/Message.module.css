@@ -1,0 +1,44 @@
+.item {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: #0066FF;
+  text-decoration: none;
+}
+
+.dialogs {
+  background-color: #d2d2d2;
+  display: grid;
+  grid-template-columns: 1fr 5fr;
+}
+
+.dialogsitems {
+  margin: 10px 0 10px 20px;
+}
+
+.dialog {
+  padding: 10px;
+  background-color: antiquewhite;
+  box-shadow: 0.375em 0.375em 0 0 rgba(15, 28, 63, 0.13);
+  margin: 10px 10px 10px 10px;
+  color: #000000;
+  margin: 5px 0 5px 0;
+  background-color: #e5a9a9;
+  font-weight: bold;
+}
+
+.messages {
+  margin: 20px;
+}
+
+.message {
+  padding: 10px;
+  background-color: antiquewhite;
+  box-shadow: 0.375em 0.375em 0 0 rgba(15, 28, 63, 0.13);
+  margin: 10px 10px 10px 10px;
+  color: #000000;
+  background-color: #eedc42;
+}
+
+/*# sourceMappingURL=Message.module.css.map */

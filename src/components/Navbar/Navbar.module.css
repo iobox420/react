@@ -1,0 +1,37 @@
+.item {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: #0066FF;
+  text-decoration: none;
+}
+
+nav {
+  grid-area: nav;
+  background-color: #d2d2d2;
+  padding: 20px 20px 20px 20px;
+}
+
+.navli {
+  text-align: left;
+}
+
+.item {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: #0066FF;
+  text-decoration: none;
+}
+
+.item:hover {
+  color: #ffffff;
+}
+
+.activeLink {
+  color: #ffd700;
+}
+
+/*# sourceMappingURL=Navbar.module.css.map */

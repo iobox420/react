@@ -1,0 +1,14 @@
+.item {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: #0066FF;
+  text-decoration: none;
+}
+
+.content {
+  background-color: #d2d2d2;
+}
+
+/*# sourceMappingURL=Profile.module.css.map */
